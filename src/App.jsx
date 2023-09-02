@@ -1,11 +1,10 @@
-import "./App.css";
 import ResultCard from "./components/ResultCard";
 import SummaryCard from "./components/SummaryCard";
 import { clsx } from "clsx";
 
 function App() {
   return (
-    <main className="flex justify-center items-center min-h-screen scale-105">
+    <main className="flex justify-center items-center min-h-screen scale-110">
       <div
         className={clsx(
           "flex flex-col",
