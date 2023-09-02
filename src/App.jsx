@@ -4,12 +4,12 @@ import { clsx } from "clsx";
 
 function App() {
   return (
-    <main className="flex justify-center items-center min-h-screen scale-110">
+    <main className="flex justify-center items-center min-h-screen scale-105">
       <div
         className={clsx(
           "flex flex-col",
           "rounded-2xl shadow-custom",
-          "m-14 max-w-2xl",
+          "m-14 max-w-xl",
           "md:flex-row"
         )}
       >
