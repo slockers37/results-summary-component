@@ -17,7 +17,7 @@ const SummaryCard = () => {
               "bg-primary-verbal": item.category.toLowerCase() === "verbal",
               "bg-primary-visual": item.category.toLowerCase() === "visual",
             },
-            "bg-opacity-20",
+            "bg-opacity-5",
             "font-semibold"
           )}
         >
