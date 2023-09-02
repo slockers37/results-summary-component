@@ -5,7 +5,7 @@ import { clsx } from "clsx";
 
 function App() {
   return (
-    <div className="flex justify-center items-center min-h-screen">
+    <main className="flex justify-center items-center min-h-screen">
       <div
         className={clsx(
           "flex flex-col",
@@ -17,7 +17,7 @@ function App() {
         <ResultCard />
         <SummaryCard />
       </div>
-    </div>
+    </main>
   );
 }
 
