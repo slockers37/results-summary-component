@@ -9,7 +9,7 @@ function App() {
       <div
         className={clsx(
           "flex flex-col",
-          "rounded-2xl shadow-md",
+          "rounded-2xl shadow-custom",
           "m-14 max-w-2xl",
           "md:flex-row"
         )}
