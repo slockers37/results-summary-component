@@ -20,14 +20,14 @@ const ResultCard = () => {
           "rounded-full px-12 py-10"
         )}
       >
-        <p className="font-bold text-5xl text-neutral-white">76</p>
-        <p className="text-neutral-pale-blue">of 100</p>
+        <p className="font-bold text-6xl text-neutral-white">76</p>
+        <p className="text-neutral-light-lavender opacity-50">of 100</p>
       </div>
       <div>
         <p className="text-neutral-white text-2xl text-center mb-2 mt-4">
           Great
         </p>
-        <p className="text-neutral-light-lavender text-center">
+        <p className="text-neutral-light-lavender text-center opacity-90">
           You scored higher than 65% of the people who take these tests
         </p>
       </div>

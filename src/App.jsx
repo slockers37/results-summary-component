@@ -5,7 +5,7 @@ import { clsx } from "clsx";
 
 function App() {
   return (
-    <main className="flex justify-center items-center min-h-screen">
+    <main className="flex justify-center items-center min-h-screen scale-105">
       <div
         className={clsx(
           "flex flex-col",
